@@ -1,0 +1,15 @@
+INPUTS
+- Subject name
+- Topics
+- Knowledge level
+- Difficulty
+- Priority
+- Exam date
+- Available study hours
+
+OUTPUT
+- Daily study schedule
+- Subject
+- Topic
+- Duration
+- Revision time

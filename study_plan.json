@@ -1,0 +1,1482 @@
+{
+    "student": {
+        "name": "arjun",
+        "daily_hours": 10.0,
+        "subjects": [
+            {
+                "subject_name": "daa",
+                "topic_count": 1,
+                "topic_names": [
+                    "time complexity"
+                ],
+                "level": "beginner",
+                "difficulty": "high",
+                "priority": "high",
+                "exam_date": "25-09-2026",
+                "total_score": 9,
+                "remaining_days": 19,
+                "percentage": 1.0,
+                "allocated_hr": 152.0,
+                "hr_per_topic": 152.0
+            }
+        ],
+        "progress": {}
+    },
+    "schedule": {
+        "Day 1": {
+            "date": "06-09-2026",
+            "tasks": [
+                {
+                    "id": 1,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 2,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 3,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 4,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 5,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 6,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 7,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 8,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 2": {
+            "date": "07-09-2026",
+            "tasks": [
+                {
+                    "id": 9,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 10,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 11,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 12,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 13,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 14,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 15,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 16,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 17,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 3": {
+            "date": "08-09-2026",
+            "tasks": [
+                {
+                    "id": 18,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 19,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 20,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 21,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 22,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 23,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 24,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 25,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 26,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 4": {
+            "date": "09-09-2026",
+            "tasks": [
+                {
+                    "id": 27,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 28,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 29,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 30,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 31,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 32,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 33,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 34,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 35,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 5": {
+            "date": "10-09-2026",
+            "tasks": [
+                {
+                    "id": 36,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 37,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 38,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 39,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 40,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 41,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 42,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 43,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 44,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 6": {
+            "date": "11-09-2026",
+            "tasks": [
+                {
+                    "id": 45,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 46,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 47,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 48,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 49,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 50,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 51,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 52,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 53,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 7": {
+            "date": "12-09-2026",
+            "tasks": [
+                {
+                    "id": 54,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 55,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 56,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 57,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 58,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 59,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 60,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 61,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 62,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 8": {
+            "date": "13-09-2026",
+            "tasks": [
+                {
+                    "id": 63,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 64,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 65,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 66,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 67,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 68,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 69,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 70,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 71,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 9": {
+            "date": "14-09-2026",
+            "tasks": [
+                {
+                    "id": 72,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 73,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 74,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 75,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 76,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 77,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 78,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 79,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 80,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 10": {
+            "date": "15-09-2026",
+            "tasks": [
+                {
+                    "id": 81,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 82,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 83,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 84,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 85,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 86,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 87,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 88,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 89,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 11": {
+            "date": "16-09-2026",
+            "tasks": [
+                {
+                    "id": 90,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 91,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 92,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 93,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 94,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 95,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 96,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 97,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 98,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 12": {
+            "date": "17-09-2026",
+            "tasks": [
+                {
+                    "id": 99,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 100,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 101,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 102,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 103,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 104,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 105,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 106,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 107,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 13": {
+            "date": "18-09-2026",
+            "tasks": [
+                {
+                    "id": 108,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 109,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 110,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 111,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 112,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 113,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 114,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 115,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 116,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 14": {
+            "date": "19-09-2026",
+            "tasks": [
+                {
+                    "id": 117,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 118,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 119,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 120,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 121,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 122,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 123,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 124,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 125,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 15": {
+            "date": "20-09-2026",
+            "tasks": [
+                {
+                    "id": 126,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 127,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 128,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 129,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 130,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 131,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 132,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 133,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 134,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 16": {
+            "date": "21-09-2026",
+            "tasks": [
+                {
+                    "id": 135,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 136,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 137,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 138,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 139,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 140,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 141,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 142,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 143,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 17": {
+            "date": "22-09-2026",
+            "tasks": [
+                {
+                    "id": 144,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 145,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 146,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 147,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 148,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 149,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 150,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 151,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 152,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 18": {
+            "date": "23-09-2026",
+            "tasks": [
+                {
+                    "id": 153,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 154,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 155,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 156,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 157,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 158,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 159,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 160,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 161,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": false
+                }
+            ]
+        },
+        "Day 19": {
+            "date": "24-09-2026",
+            "tasks": [
+                {
+                    "id": 162,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 163,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 164,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 165,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 166,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 167,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 168,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 169,
+                    "type": "study",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 1,
+                    "completed": false
+                },
+                {
+                    "id": 170,
+                    "type": "revision",
+                    "subject": "daa",
+                    "topic": "time complexity",
+                    "hours": 2.0,
+                    "completed": true
+                }
+            ]
+        }
+    }
+}
